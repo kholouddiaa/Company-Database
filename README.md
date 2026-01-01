@@ -1,4 +1,4 @@
 # Company Database
 
-## ER Diagram
+## ER SCHHEMA 
 ![Company Database ER Diagram](https://github.com/user-attachments/assets/0eff0bdc-a323-4be7-8c47-7be59be5df40)
